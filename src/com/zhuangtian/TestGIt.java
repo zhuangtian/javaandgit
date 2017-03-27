@@ -5,5 +5,7 @@ public class TestGIt {
 		System.out.println("helloword!!");
 		System.out.println("helloword!!");
 		System.out.println("helloword!!");
+		System.out.println("helloword!!");
+		System.out.println("helloword!!");
 	}
 }
