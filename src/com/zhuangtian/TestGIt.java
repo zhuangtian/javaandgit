@@ -8,5 +8,9 @@ public class TestGIt {
 		System.out.println("333");
 		System.out.println("444");
 		System.out.println("5555");
+		System.out.println("helloword!!");
+		System.out.println("helloword!!");
+		System.out.println("helloword!!");
+		System.out.println("helloword!!");
 	}
 }
